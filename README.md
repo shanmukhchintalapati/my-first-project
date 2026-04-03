@@ -1,2 +1,3 @@
 # my-first-project
-My first GitHub repository for learning Git and GitHub
+This is my first GitHub repository.
+I am learning Git and GitHub to build my technical skills and create projects.
